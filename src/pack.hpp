@@ -13,7 +13,6 @@
 #include <unordered_map>
 
 #include <algorithm>
-#include <future>
 
 namespace fs = std::filesystem;
 
